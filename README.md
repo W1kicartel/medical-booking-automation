@@ -114,4 +114,4 @@ Full walkthrough in [`docs/setup.md`](./docs/setup.md).
 
 ## About
 
-Built by [Gianluca Perrini](https://github.com/w1kicartel) / [AgentFlow](https://agentflow.it) — AI automation for Italian SMBs.
+Built by [ME](https://github.com/w1kicartel) / [AIgentFlow](https://AIgentflow.cloud) — AI automation for Italian SMBs.
